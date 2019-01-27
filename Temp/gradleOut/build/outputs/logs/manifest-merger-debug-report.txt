@@ -1,0 +1,502 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:17:1-30:12
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/a13069ef169cc8306c9c7ded75d63c0c/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/7fbd7628e4769392fadd6834a69639fd/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/c7cc0dfb99f46a4b1dc0bae9d1024745/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/5803cc3cff86fdbd8b226711a32ee50c/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/ddc27399a2ed60c9e3e5984fdfacae4f/AndroidManifest.xml:17:1-31:12
+MERGED from [:com.google.android.gms.play-services-ads-identifier-16.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-ads-identifier-16.0.0.aar/6f9b0026051ca548ffa4d67afe89c2bb/AndroidManifest.xml:17:1-24:12
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:17:1-29:12
+MERGED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:17:1-28:12
+MERGED from [:com.google.android.gms.play-services-flags-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-flags-16.0.1.aar/218364f0e38773ee54262c0af1059c72/AndroidManifest.xml:17:1-22:12
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-api-16.0.4.aar/0224617901442164ae551121ae1314f9/AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-base-16.0.5.aar/4039a68f024c79b26560e3488e245708/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-stats-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-stats-16.0.1.aar/76715d79098b6a2d16ea2d3b64ca0dec/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/38ca295d677762ac87e44d8363e1b40c/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:17:1-55:12
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:17:1-40:12
+MERGED from [:com.google.firebase.firebase-app-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-app-unity-5.4.4.aar/1d83e91962cfca4c6b3e2f5089689120/AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:17:1-42:12
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-interop-16.0.1.aar/b2142bd0ecfa3a3ae04ef818d48eeb7f/AndroidManifest.xml:2:1-10:12
+MERGED from [:com.google.firebase.firebase-auth-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-unity-5.4.4.aar/49db5400f6a2265e3b25e6f436f4c290/AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.firebase.firebase-core-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-core-16.0.6.aar/1dd8c2bfa3b5d5871e950e6530f6183f/AndroidManifest.xml:2:1-9:12
+MERGED from [:com.google.firebase.firebase-database-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-16.0.5.aar/0a3a411ca6fdde4bcedd21fbfa2f3d13/AndroidManifest.xml:15:1-25:12
+MERGED from [:com.google.firebase.firebase-database-collection-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-collection-16.0.1.aar/462ef2597c584588b3b9dd5ccd3ad9c1/AndroidManifest.xml:2:1-7:12
+MERGED from [:com.google.firebase.firebase-database-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-unity-5.4.4.aar/3994934398ec0ae107b6df5909c29b2c/AndroidManifest.xml:3:1-8:12
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:17:1-59:12
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-interop-16.0.1.aar/759ade4f8d58a62cc2bb6c5c276f3106/AndroidManifest.xml:2:1-10:12
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-17.0.1.aar/88ff74d25674bf2c5959520f2e48870b/AndroidManifest.xml:17:1-25:12
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:17:1-34:12
+MERGED from [:Firebase] /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/Firebase/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:10:1-19:12
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+	package
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:70-97
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:98-144
+	android:versionCode
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:1-24:12
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:11-69
+	android:installLocation
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:2:145-185
+supports-screens
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:3:3-163
+	android:largeScreens
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:3:78-105
+	android:smallScreens
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:3:21-48
+	android:normalScreens
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:3:49-77
+	android:xlargeScreens
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:3:106-134
+	android:anyDensity
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:3:135-160
+application
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:4:3-16:17
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:24:5-28:19
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:24:5-28:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/a13069ef169cc8306c9c7ded75d63c0c/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/a13069ef169cc8306c9c7ded75d63c0c/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/7fbd7628e4769392fadd6834a69639fd/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/7fbd7628e4769392fadd6834a69639fd/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/c7cc0dfb99f46a4b1dc0bae9d1024745/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/c7cc0dfb99f46a4b1dc0bae9d1024745/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/5803cc3cff86fdbd8b226711a32ee50c/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/5803cc3cff86fdbd8b226711a32ee50c/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/ddc27399a2ed60c9e3e5984fdfacae4f/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/ddc27399a2ed60c9e3e5984fdfacae4f/AndroidManifest.xml:25:5-29:19
+MERGED from [:com.google.android.gms.play-services-ads-identifier-16.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-ads-identifier-16.0.0.aar/6f9b0026051ca548ffa4d67afe89c2bb/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-ads-identifier-16.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-ads-identifier-16.0.0.aar/6f9b0026051ca548ffa4d67afe89c2bb/AndroidManifest.xml:22:5-20
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:22:5-27:19
+MERGED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:22:5-26:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-api-16.0.4.aar/0224617901442164ae551121ae1314f9/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-api-16.0.4.aar/0224617901442164ae551121ae1314f9/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-base-16.0.5.aar/4039a68f024c79b26560e3488e245708/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-base-16.0.5.aar/4039a68f024c79b26560e3488e245708/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-stats-16.0.1.aar/76715d79098b6a2d16ea2d3b64ca0dec/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-stats-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-stats-16.0.1.aar/76715d79098b6a2d16ea2d3b64ca0dec/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/38ca295d677762ac87e44d8363e1b40c/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/38ca295d677762ac87e44d8363e1b40c/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:28:5-53:19
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:28:5-38:19
+MERGED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:23:5-40:19
+MERGED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:23:5-40:19
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-interop-16.0.1.aar/b2142bd0ecfa3a3ae04ef818d48eeb7f/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-interop-16.0.1.aar/b2142bd0ecfa3a3ae04ef818d48eeb7f/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:4:3-6:17
+MERGED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:4:3-6:17
+MERGED from [:com.google.firebase.firebase-core-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-core-16.0.6.aar/1dd8c2bfa3b5d5871e950e6530f6183f/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-core-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-core-16.0.6.aar/1dd8c2bfa3b5d5871e950e6530f6183f/AndroidManifest.xml:7:5-20
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:28:5-57:19
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:28:5-57:19
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-interop-16.0.1.aar/759ade4f8d58a62cc2bb6c5c276f3106/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-interop-16.0.1.aar/759ade4f8d58a62cc2bb6c5c276f3106/AndroidManifest.xml:7:5-8:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-17.0.1.aar/88ff74d25674bf2c5959520f2e48870b/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-17.0.1.aar/88ff74d25674bf2c5959520f2e48870b/AndroidManifest.xml:22:5-23:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:26:5-32:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:26:5-32:19
+	android:label
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:4:90-122
+	android:icon
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:4:58-89
+	android:banner
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:4:145-182
+	android:theme
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:4:16-57
+	android:isGame
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:4:123-144
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:5:5-12:16
+	android:screenOrientation
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:5:102-140
+	android:label
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:5:69-101
+	android:launchMode
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:5:141-172
+	android:hardwareAccelerated
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:5:355-390
+	android:configChanges
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:5:173-354
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:5:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:6:7-10:23
+action#android.intent.action.MAIN
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:7:9-61
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:7:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:8:9-69
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:8:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:9:9-78
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:9:19-75
+meta-data#unityplayer.UnityActivity
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:11:7-82
+	android:value
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:11:59-79
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:11:18-58
+meta-data#unity.build-id
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:13:5-101
+	android:value
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:13:46-98
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:13:16-45
+meta-data#unity.splash-mode
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:14:5-69
+	android:value
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:14:49-66
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:14:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:15:5-74
+	android:value
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:15:51-71
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:15:16-50
+uses-feature#0x00020000
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:17:3-52
+	android:glEsVersion
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:17:17-49
+uses-permission#android.permission.INTERNET
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:18:3-65
+MERGED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-database-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-16.0.5.aar/0a3a411ca6fdde4bcedd21fbfa2f3d13/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-database-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-16.0.5.aar/0a3a411ca6fdde4bcedd21fbfa2f3d13/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:23:5-67
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:22:5-67
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:22:5-67
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:18:20-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:19:3-106
+	android:maxSdkVersion
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:19:77-103
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:19:20-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:20:3-105
+	android:maxSdkVersion
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:20:76-102
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:20:20-75
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:21:3-88
+	android:required
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:21:61-85
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:21:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:22:3-99
+	android:required
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:22:72-96
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:22:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:23:3-108
+	android:required
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:23:81-105
+	android:name
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml:23:17-80
+uses-sdk
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:20:5-22:41
+MERGED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:20:5-22:41
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/a13069ef169cc8306c9c7ded75d63c0c/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/a13069ef169cc8306c9c7ded75d63c0c/AndroidManifest.xml:21:5-23:58
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/7fbd7628e4769392fadd6834a69639fd/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/7fbd7628e4769392fadd6834a69639fd/AndroidManifest.xml:21:5-23:61
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/c7cc0dfb99f46a4b1dc0bae9d1024745/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/c7cc0dfb99f46a4b1dc0bae9d1024745/AndroidManifest.xml:21:5-23:60
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/5803cc3cff86fdbd8b226711a32ee50c/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/5803cc3cff86fdbd8b226711a32ee50c/AndroidManifest.xml:21:5-23:63
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/ddc27399a2ed60c9e3e5984fdfacae4f/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/ddc27399a2ed60c9e3e5984fdfacae4f/AndroidManifest.xml:21:5-23:54
+MERGED from [:com.google.android.gms.play-services-ads-identifier-16.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-ads-identifier-16.0.0.aar/6f9b0026051ca548ffa4d67afe89c2bb/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-ads-identifier-16.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-ads-identifier-16.0.0.aar/6f9b0026051ca548ffa4d67afe89c2bb/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-flags-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-flags-16.0.1.aar/218364f0e38773ee54262c0af1059c72/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-flags-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-flags-16.0.1.aar/218364f0e38773ee54262c0af1059c72/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-api-16.0.4.aar/0224617901442164ae551121ae1314f9/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-api-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-api-16.0.4.aar/0224617901442164ae551121ae1314f9/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-base-16.0.5.aar/4039a68f024c79b26560e3488e245708/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-measurement-base-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-measurement-base-16.0.5.aar/4039a68f024c79b26560e3488e245708/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-stats-16.0.1.aar/76715d79098b6a2d16ea2d3b64ca0dec/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-stats-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-stats-16.0.1.aar/76715d79098b6a2d16ea2d3b64ca0dec/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/38ca295d677762ac87e44d8363e1b40c/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.android.gms.play-services-tasks-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-tasks-16.0.1.aar/38ca295d677762ac87e44d8363e1b40c/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-app-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-app-unity-5.4.4.aar/1d83e91962cfca4c6b3e2f5089689120/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-app-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-app-unity-5.4.4.aar/1d83e91962cfca4c6b3e2f5089689120/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:21:5-44
+MERGED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:21:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-interop-16.0.1.aar/b2142bd0ecfa3a3ae04ef818d48eeb7f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-interop-16.0.1.aar/b2142bd0ecfa3a3ae04ef818d48eeb7f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-auth-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-unity-5.4.4.aar/49db5400f6a2265e3b25e6f436f4c290/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-auth-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-unity-5.4.4.aar/49db5400f6a2265e3b25e6f436f4c290/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:3:3-72
+MERGED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:3:3-72
+MERGED from [:com.google.firebase.firebase-core-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-core-16.0.6.aar/1dd8c2bfa3b5d5871e950e6530f6183f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-core-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-core-16.0.6.aar/1dd8c2bfa3b5d5871e950e6530f6183f/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-database-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-16.0.5.aar/0a3a411ca6fdde4bcedd21fbfa2f3d13/AndroidManifest.xml:18:5-20:41
+MERGED from [:com.google.firebase.firebase-database-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-16.0.5.aar/0a3a411ca6fdde4bcedd21fbfa2f3d13/AndroidManifest.xml:18:5-20:41
+MERGED from [:com.google.firebase.firebase-database-collection-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-collection-16.0.1.aar/462ef2597c584588b3b9dd5ccd3ad9c1/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-database-collection-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-collection-16.0.1.aar/462ef2597c584588b3b9dd5ccd3ad9c1/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-database-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-unity-5.4.4.aar/3994934398ec0ae107b6df5909c29b2c/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-database-unity-5.4.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-unity-5.4.4.aar/3994934398ec0ae107b6df5909c29b2c/AndroidManifest.xml:7:3-41
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-interop-16.0.1.aar/759ade4f8d58a62cc2bb6c5c276f3106/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-iid-interop-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-interop-16.0.1.aar/759ade4f8d58a62cc2bb6c5c276f3106/AndroidManifest.xml:5:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-17.0.1.aar/88ff74d25674bf2c5959520f2e48870b/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-17.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-17.0.1.aar/88ff74d25674bf2c5959520f2e48870b/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:20:5-44
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:20:5-44
+MERGED from [:Firebase] /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/Firebase/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-17:40
+MERGED from [:Firebase] /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/Firebase/build/intermediates/merged_manifests/debug/processDebugManifest/merged/AndroidManifest.xml:15:5-17:40
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:23:9-55
+	android:targetSdkVersion
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+		ADDED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+		INJECTED from /Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/src/main/AndroidManifest.xml
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:android.arch.lifecycle.runtime-1.0.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/android.arch.lifecycle.runtime-1.0.0.aar/aecb935e9cc4943cb44d1fb375f382d6/AndroidManifest.xml:26:13-58
+meta-data#android.support.VERSION
+ADDED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/a13069ef169cc8306c9c7ded75d63c0c/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-ui-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-ui-26.1.0.aar/a13069ef169cc8306c9c7ded75d63c0c/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/7fbd7628e4769392fadd6834a69639fd/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-core-utils-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-core-utils-26.1.0.aar/7fbd7628e4769392fadd6834a69639fd/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/c7cc0dfb99f46a4b1dc0bae9d1024745/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-fragment-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-fragment-26.1.0.aar/c7cc0dfb99f46a4b1dc0bae9d1024745/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/5803cc3cff86fdbd8b226711a32ee50c/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-media-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-media-compat-26.1.0.aar/5803cc3cff86fdbd8b226711a32ee50c/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/ddc27399a2ed60c9e3e5984fdfacae4f/AndroidManifest.xml:26:9-28:38
+MERGED from [:com.android.support.support-v4-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-v4-26.1.0.aar/ddc27399a2ed60c9e3e5984fdfacae4f/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [:com.android.support.support-compat-26.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.android.support.support-compat-26.1.0.aar/2cb6c7a0606c3571c687009f07533b99/AndroidManifest.xml:27:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [:com.google.android.gms.play-services-base-16.0.1:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-base-16.0.1.aar/9d7aaa4d51cebcd333fb298f95921b4b/AndroidManifest.xml:24:13-79
+meta-data#com.google.android.gms.version
+ADDED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:com.google.android.gms.play-services-basement-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.android.gms.play-services-basement-16.1.0.aar/9c86f1625683694a81e53dfbe7564ea5/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:24:5-79
+MERGED from [:com.google.firebase.firebase-database-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-16.0.5.aar/0a3a411ca6fdde4bcedd21fbfa2f3d13/AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-database-16.0.5:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-database-16.0.5.aar/0a3a411ca6fdde4bcedd21fbfa2f3d13/AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:22:5-79
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:23:5-79
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:25:5-68
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:24:5-68
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:25:22-65
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:26:5-110
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:34:9-42:20
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:29:9-37:20
+MERGED from [:com.google.firebase.firebase-analytics-impl-16.2.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-impl-16.2.4.aar/8f8574b0875c6974895695ac3286e389/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [:com.google.firebase.firebase-analytics-16.0.6:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-analytics-16.0.6.aar/f20465a550350802e7798ff5b913e3f4/AndroidManifest.xml:49:13-87
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:33:9-39:19
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:29:9-35:19
+MERGED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:29:9-35:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:27:9-31:19
+MERGED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:27:9-31:19
+	android:exported
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-auth-16.1.0:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-auth-16.1.0.aar/438a625b9e5fd996aa329d3d0b775b3c/AndroidManifest.xml:37:17-109
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:5:5-192
+	android:authorities
+		ADDED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:5:80-140
+	android:exported
+		ADDED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:5:141-165
+	android:initOrder
+		ADDED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:5:166-189
+	android:name
+		ADDED from [:com.google.firebase.firebase-common-16.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-common-16.0.4.aar/849ede520aa9aacd449f094cbf5a2437/AndroidManifest.xml:5:15-79
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [:com.google.firebase.firebase-iid-17.0.3:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-iid-17.0.3.aar/05a51914a689333de986925bd01599a8/AndroidManifest.xml:54:25-77
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [:com.google.firebase.firebase-measurement-connector-impl-17.0.4:] /Users/daydev/.gradle/caches/transforms-1/files-1.1/com.google.firebase.firebase-measurement-connector-impl-17.0.4.aar/50d03e5184f99d5e070c91f0e8f3f2df/AndroidManifest.xml:29:17-139

@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/Firebase/build/intermediates/res/merged/release/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/Firebase/res/values/google-services.xml",
+                    "from": {
+                        "startLines": "9,2,3,6,8,7,4,5",
+                        "startColumns": "2,2,2,2,2,2,2,2",
+                        "startOffsets": "999,334,437,678,898,780,517,609",
+                        "endColumns": "141,102,79,101,100,117,91,68",
+                        "endOffsets": "1138,434,514,777,996,895,606,675"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,304,386,490,593,713,807",
+                        "endColumns": "143,104,81,103,102,119,93,70",
+                        "endOffsets": "194,299,381,485,588,708,802,873"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/Firebase/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/Firebase/res/values/google-services.xml",
+                    "from": {
+                        "startLines": "9,2,3,6,8,7,4,5",
+                        "startColumns": "2,2,2,2,2,2,2,2",
+                        "startOffsets": "999,334,437,678,898,780,517,609",
+                        "endColumns": "141,102,79,101,100,117,91,68",
+                        "endOffsets": "1138,434,514,777,996,895,606,675"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,304,386,490,593,713,807",
+                        "endColumns": "143,104,81,103,102,119,93,70",
+                        "endOffsets": "194,299,381,485,588,708,802,873"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+#Mon Jan 28 00:58:21 ICT 2019
+base.0=/Users/daydev/Documents/Unity/Bit Cat/Temp/gradleOut/build/intermediates/transforms/dexMerger/release/0
+path.0=classes.dex
+renamed.0=classes.dex

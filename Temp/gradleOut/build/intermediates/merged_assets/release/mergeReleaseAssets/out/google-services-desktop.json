@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "926335671735",
+    "firebase_url": "https://antchatbot.firebaseio.com",
+    "project_id": "antchatbot",
+    "storage_bucket": "antchatbot.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926335671735:android:2ce7e60e971e186d",
+        "android_client_info": {
+          "package_name": "com.daydev.cat127"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926335671735-tstmlgu9lgraikffahs7n6439pcnrs6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg3Fihzumzgd-MwFrXiskSTkES_af8PeM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
